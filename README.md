@@ -1,5 +1,8 @@
 # EJS
 
+## Info
+This project is a fork of [mde/ejs](https://github.com/mde/ejs). The initial fork can be found [here](https://github.com/jconnolly-kabam/ejs).
+
 Embedded JavaScript templates
 
 [![Build Status](https://img.shields.io/travis/mde/ejs/master.svg?style=flat)](https://travis-ci.org/mde/ejs)
